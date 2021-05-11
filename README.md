@@ -8,3 +8,6 @@ iSpotify is a command line node app that takes in parameters and gives back data
 - NodeJS
 - node-spotify-api package
 - dotenv package
+
+# Hotel California - GIF
+![Hotel-California](../img/hotel-california.gif)
